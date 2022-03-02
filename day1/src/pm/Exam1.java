@@ -56,5 +56,6 @@ public class Exam1 {
 		System.out.println("안녕"+5.8);
 		System.out.println(3+5+"방가"+4+2);
 		System.out.printf("%s:%d", "홍길동",15);
+
 	}
 }

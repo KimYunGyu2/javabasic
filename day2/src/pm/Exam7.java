@@ -43,9 +43,7 @@ public class Exam7 {
 				max = score;				
 			}
 			if (score < min) {				
-				min = score;
-				
-			
+				min = score;		
 			}
 		}
 		

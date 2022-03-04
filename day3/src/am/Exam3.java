@@ -27,13 +27,16 @@ public class Exam3 {
 			if (choice == 1) {
 				System.out.println("선택하신 메뉴는 "+choice+"번입니다.");
 				continue;
-			}else if (choice == 2) {
+			}
+			if (choice == 2) {
 				System.out.println("선택하신 메뉴는 "+choice+"번입니다.");
 				continue;
-			}else if (choice == 3) {
+			}
+			if (choice == 3) {
 				System.out.println("선택하신 메뉴는 "+choice+"번입니다.");
 				continue;
-			}else if (choice == 0){
+			}
+			if (choice == 0){
 				System.out.println("프로그램을 종료합니다.");
 				break;
 			}else {
